@@ -1,2 +1,3 @@
 # xcloud-devops
-One stop solution of PaaS platform based on DevSecOps --- Based on SpringCloud/Docker/ServiceMesh(Istio), primary integrated modules: CMDB, Unified Continuous delivery of CI/CD (distributed compilation and deployment), IAM Certification Center, Unified monitoring center, Unified configuration center, Unified Distributed task scheduling center, Unified documents, Unified developer center(AutoGenerator), Private object storage, source/package/image repository management, Shell tools, various tool chains (such as HBase/OSS operation and maintenance), Timely communication, lightweight risk control, Flexible scaling, etc
+
+Moved to [xcloud-dopaas](../../../xcloud-dopaas)
