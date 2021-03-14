@@ -1,3 +1,3 @@
-# xcloud-devops
+# XCloud DevOps
 
-Moved to new repository, please visit: [xcloud-dopaas](../../../xcloud-dopaas)
+Moved to new repository, please visit: [XCloud DoPaaS](../../../xcloud-dopaas)
